@@ -1,0 +1,226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the translation of the Bible into the Lithvanian tongve, into which language the Scriptures were as yet never translated with a copy of the testimoniall given to the translator : and of the approbation of his undertaking, by several reverend doctors of divinity, with the professors of the same, and other persons of note in the University of Oxford, Novermber 15, 1659.</title>
+            <author>Chyliński, Samuel Bogusław, d. 1668.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33142</idno>
+            <idno type="STC">Wing C4280</idno>
+            <idno type="STC">ESTC R12250</idno>
+            <idno type="EEBO-CITATION">13304425</idno>
+            <idno type="OCLC">ocm 13304425</idno>
+            <idno type="VID">98965</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33142)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98965)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 450:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the translation of the Bible into the Lithvanian tongve, into which language the Scriptures were as yet never translated with a copy of the testimoniall given to the translator : and of the approbation of his undertaking, by several reverend doctors of divinity, with the professors of the same, and other persons of note in the University of Oxford, Novermber 15, 1659.</title>
+                  <author>Chyliński, Samuel Bogusław, d. 1668.</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Hen. Hall ...,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Samuel Bogusław Chylinski.  Cf. BLC.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Translations into Lithuanian.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98965:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 85 -->
+            <pb facs="tcp:98965:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 85 -->
+            <p>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ACCOUNT OF THE TRANSLATION OF THE BIBLE INTO THE <hi>LITH<g ref="char:V">Ʋ</g>ANIAN TONG<g ref="char:V">Ʋ</g>E,</hi> Into which LANGUAGE the SCRIPTURES were as yet never Tranſlated: WITH A Copy of the Teſtimoniall Given to the TRANSLATOR, And of the Approbation of his undertaking, by ſeveral Reverend Doctors of Divinity, with the Profeſſors of the ſame, and other Perſons of Note, in the VNIVERSITY OF <hi>OXFORD,</hi> November 15. 1659.</p>
+            <p>
+               <hi>OXFORD:</hi> Printed by <hi>H<gap reason="illegible" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap> Hall,</hi> Printer to the Univerſity. <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>.</p>
+         </div>
+      </front>
+      <body>
+         <div type="translator_to_the_reader">
+            <pb facs="tcp:98965:2"/>
+            <!-- PDF PAGE 86 -->
+            <pb n="1" facs="tcp:98965:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 86 -->
+            <opener>
+               <salute>The Tranſlator wiſheth all health and happineſse to the Chriſtian Reader.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Here is none, I preſume, of thoſe <hi>who love the Lord Jeſus Chriſt in ſincerity,</hi> but will account that a good ſervice done to Religion, and an ac<g ref="char:EOLhyphen"/>ceptable work unto the Church of God, of thoſe who imploy their whole ſtudies and endeavours <hi>for ſaving the ſoules of men,</hi> and for the propa<g ref="char:EOLhyphen"/>gating of the true worſhip of God in all places throughout the world: Since that it is our duty not onely to have regard of our ſelves, but we ought likewiſe, ſo farre as we are able, to endeavour the ſalvation of others alſo, and to be induſtrious in the promoting of it. <hi>He that doth the worke of the Lord deceitfully, or having put his hand to the plough, doth through ſlothfulneſſe draw it backe againe, is pronounced accurſed</hi>: But <hi>a crowne of eternall glo<g ref="char:EOLhyphen"/>ry</hi> is laid up for thoſe who have <hi>kept the faith, have brought ſinners unto righteouſneſſe, and accompliſhed their courſe with cheerfulneſſe.</hi> It is not eaſe or idleneſſe, but induſtry and labour, is the portion of thoſe who deſire to do ſervice in the Church of God; difficulties &amp; dangers they muſt expect to meet with, the croſſe alſo, &amp; many grievous things to be undergone, the weight whereof without the aſſiſtance of the holy ſpirit were inſupportable. Of this Moſes <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> faithfull ſervant in the houſe of God,</hi> had much experience, when with many ſignes and wounders he brought the Children of Iſrael out of the bondage of Egypt, and did in the wilderneſſe <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:98965:3"/>
+               <!-- PDF PAGE 87 -->that people to be obſerved the law of God publiſhed for that end on mount Sinai. He found the like in preparing and erecting the <hi>Tabernacle,</hi> the draught whereof he received from God himſelfe, for notwithſtanding the large contribution of materialls to the worke, yet was there need alſo, that <hi>Bezaleel</hi> and <hi>Aholiab</hi> the workmen of it ſhould be furniſhed by God himſelfe, with a ſpirit of wiſdome and skill, to prepare it, and the ſeverall ſorts of veſ<g ref="char:EOLhyphen"/>ſells belonging to it; whereby God, the moſt wiſe Architect of the whole Univerſe, would make knowne to us, that to the do<g ref="char:EOLhyphen"/>ing of Gods worke, the ſpirit and help of God is mainly neceſſa<g ref="char:EOLhyphen"/>ry, which is not in the power of man to confer, but proceedes a<g ref="char:EOLhyphen"/>lone from <hi>the Father of lights.</hi> 'Twas the worke of God to put into <hi>Solomons</hi> heart a ſpirit of wiſdome, which made him ſur<g ref="char:EOLhyphen"/>paſſe the wiſeſt of men; and to ſtir him up with cherefullneſſe and reſolution, to undertake and accompliſh the building of that famous <hi>Temple at Jeruſalem</hi>: as alſo to incline the heart of <hi>Hiram King of Tyre,</hi> to ſupply wood and ſtones for that magnificent ſtructure, and fit workmen for the imployment; who were by God alſo inabled to perform the worke. The ſame Spirit of God it was, that put it into the heart of <hi>Cyrus King of Perſia,</hi> to afford to the people of God then in captivity, a ſafe returne to their owne land. 'Tis God alſo that put courage into <hi>Zerubbabel</hi> and <hi>Jo<g ref="char:EOLhyphen"/>ſhua,</hi> and a ſpirit of alacrity into the people, to ſet to their whole ſtrength for rebuilding the <hi>Temple,</hi> and not be diſmayed by diffi<g ref="char:EOLhyphen"/>culties or dangers, and their Enemies ſtratagems. And 'twas God that over ruled the ſpirit of <hi>Darius a heathen King,</hi> and made him by a publike edict give order to the neighbouring people, to for<g ref="char:EOLhyphen"/>bear demoliſhing the work once begun, which by divers ſubtil<g ref="char:EOLhyphen"/>ties and artifices they were indeavouring to do. Nor was it leſſe a worke of the ſame ſpirit of God, which ſtirred up the holy <hi>Pro<g ref="char:EOLhyphen"/>phets of old,</hi> who made it their buſineſſe to extirpate the falſe worſhip of feigned deities, and bring the people under their charge to the true worſhip of God; nor would ſuffer themſelves by the many threatenings of an ungratefull world, or the many hazards that did attend the ſervice, to be deterred from it.</p>
+            <p>To theſe ſucceeded Chriſts holy Apoſtles; who, notwith<g ref="char:EOLhyphen"/>ſtanding they were looked upon as the <hi>off-ſcouring of the world</hi>
+               <pb n="3" facs="tcp:98965:3"/>
+               <!-- PDF PAGE 87 -->and as <hi>ſheep appointed to the ſlaughter</hi>; though what they preach<g ref="char:EOLhyphen"/>ed were to <hi>the Jewes a ſtumbling-blocke,</hi> and <hi>to the Greeks fooliſh<g ref="char:EOLhyphen"/>neſſe</hi>; though expoſed to the hatred and injuries of the world which they did undergo; yet could not be drawn off <hi>from the love of Chriſt,</hi> whoſe Church, by their miniſtry, was greatly inlarg<g ref="char:EOLhyphen"/>ed, both amongſt <hi>Jewes,</hi> and <hi>Gentiles.</hi> And after them, the <hi>Orthodox Fathers</hi> of the Primitive Church; who faithfully tranſ<g ref="char:EOLhyphen"/>mitting to the Church the word of God, detecting hypocrites and ſtopping the mouthes of hereticks, were eminently ſervice<g ref="char:EOLhyphen"/>able to Chriſt the      
+<hi>Prince of Glory</hi>: To whom I muſt adde alſo thoſe faithfull labourers in the Lords vineyard in theſe latter ages; furniſhed with his ſpirit, and taught of God; who arming them<g ref="char:EOLhyphen"/>ſelves with <hi>Religions buckler,</hi> have fought manfully in the cauſe of God againſt Sathan and Antichriſt, have vindicated the light of truth from out of darkneſſe, have reſtored the learned languages and the liberall arts and ſciences to their priſtine ſplendour, nor ſpare any paines for the propagating of truth: To ſay nothing of thoſe many others whoſe names are yet flouriſhing, who at this day by their learned writings, and good name, both at home and abroad, improve that light tranſmitted to them; whoſe mo<g ref="char:EOLhyphen"/>deſty forbids to name them. To conclude, what ever at any time, by the holy men of God, in <hi>matter of Religion and Gods worſhip,</hi> hath been prudently managed or ſucceſſefully accompliſh<g ref="char:EOLhyphen"/>ed, 'tis all to be aſcribed to divine providence. Nor can I beleeve, that it is without this ſecret and wiſe diſpoſall of the divine <hi>Maje<g ref="char:EOLhyphen"/>ſty,</hi> that my ſelfe, the meaneſt of thoſe who miniſter to Chriſt or ſerve under him, and no wayes comparable with others; have been inabled in theſe laſt times, when <hi>the day of the conſum<g ref="char:EOLhyphen"/>mation of all things</hi> is at hand, (many ſignes whereof we have all<g ref="char:EOLhyphen"/>ready ſeen, and many more dayly diſcovering themſelves both in heaven and in earth, ſo that ſcarce any of them remaine as yet un<g ref="char:EOLhyphen"/>accompliſhed, ſave that onely, foretold by Chriſt <hi>Math.</hi> 24. of preaching the Goſpell throughout the world, <hi>a teſtimony to all nations, and then ſhall the end be,</hi>) willingly to begin, con<g ref="char:EOLhyphen"/>ſtantly to perſevere in, and happily to conſummate, a worke of vaſt labour, (namly) the TRANSLATION of the BIBLE, into the LI<g ref="char:EOLhyphen"/>THUANIAN TONGUE.</p>
+            <p>
+               <pb n="4" facs="tcp:98965:4"/>
+               <!-- PDF PAGE 88 -->
+For having long ago conſidered that ſeverall pious and learned men, ſince the yeare of our Lord 1387. (at which time <hi>Lithu<g ref="char:EOLhyphen"/>ania</hi> received the Chriſtian faith, by meanes of that moſt religi<g ref="char:EOLhyphen"/>ous King <hi>Jagello,</hi>) have hitherto in vaine expected, that ſome body would haue been raiſed up by God, to tranſlate the <hi>Holy Scriptures</hi> into that tongue, (which not only in thoſe large Ter<g ref="char:EOLhyphen"/>ritories but alſo in the neighbouring Countries of <hi>Livonia, Cur<g ref="char:EOLhyphen"/>landia, Ruſſia, Pruſſia,</hi> and in the borders of <hi>Moſcovy,</hi> it ſelfe is commonly uſed,) I thought it my duty (having dedicated my ſelfe to the ſervice of the Church from my youth) to furniſh my ſelfe with ſuch abilities, whereby I might be advantagious to it. Wherefore imploring the aſſiſtance and direction of Chriſt, (<hi>through whome we can do all things,</hi>) that a work ſo acceptable and ſignally conducing to the edification of the Church of God, may continue no longer unattempted, or be put off till the coming of <hi>Elias,</hi> or our <hi>Saviour Chriſt,</hi> I have adventured up<g ref="char:EOLhyphen"/>on it, and my aime is not only now by this Tranſlation (with the ſumme and contents of all the <hi>Hiſtoricall, Dogmaticall, Propheticall</hi> bookes, of the <hi>Goſpels, Epiſtles</hi> and <hi>Chapters,</hi>) to be helpfull to thoſe people, who have hitherto been deſtitute of bookes in that language for the furtherance of the practice of piety, ſaue only the <hi>Lords prayer,</hi> the <hi>Apoſtles Creed,</hi> the <hi>Ten Commandements,</hi> ſome few <hi>Catecheticall tracts, fragments of Goſpells and Epiſtles,</hi> and a late Booke in Quarto, ſet out in the yeare 1653. (con<g ref="char:EOLhyphen"/>taining only <hi>ſeventy eight</hi> of <hi>Davids Pſalmes,</hi> ſome <hi>Hymnes</hi> com<g ref="char:EOLhyphen"/>poſed by <hi>Luther</hi> and others, the <hi>Goſpells for the Lords dayes,</hi> with a ſhort analyſis, the <hi>Hiſtory of Chriſts paſſion,</hi> and a <hi>Catechiſme</hi> for the younger:) but alſo for their fuller knowledge of the articles of Chriſtian religion, by faithfully tranſlating out of the Engliſh Tongue, the <hi>Confeſsion of faith, the Larger and Leſser Catechiſme,</hi> framed by the Aſſembly of Divines, convened by the Authority of the Parliament of England, to whom being afterwards exhibited, they were examined and approved by them, as alſo by the Church<g ref="char:EOLhyphen"/>es of Scotland: I have a purpoſe ſhortly alſo by Gods <hi>aſſiſtance, to turne the booke of Pſalmes, into meeter,</hi> according to that melo<g ref="char:EOLhyphen"/>dy, that is now in uſe in the Churches of this happy Iſland, which is eaſy to be learned by ordinary perſons; for having skill but in
+<pb n="5" facs="tcp:98965:4"/>
+               <!-- PDF PAGE 88 -->three tunes, they may be able to ſing all the Pſalmes, whereas contrariwiſe in the <hi>French Pſalter</hi> (otherwiſe very excellent,) according to which almoſt all the Proteſtant Churches in Europe, have theirs compoſed, it comes to paſſe, by reaſon of the diffi<g ref="char:EOLhyphen"/>culty of the tunes, and unskilfullnes in ſinging, that only ſome of the eaſier Pſalmes are wont to be ſung, even in the publike Aſſemblyes. It were to be wiſhed, that others alſo in their gene<g ref="char:EOLhyphen"/>ration, after the ſame manner, would endeavour, to roll away, that reproach, from the Iſrael of God: likewiſe they would do a thing very pleaſing, both to God and good men, if they would compile <hi>Notes on the Bible,</hi> out of the moſt learned <hi>Eng<g ref="char:EOLhyphen"/>liſh and Dutch Annotations,</hi> (of which ſort nothing hath as yet been done in ſeverall nations) or meerly by their joynt labor tranſlate both of them, eſpecially in this age, wherein Antichriſt attempts an univerſall apoſtaſie from the truth.</p>
+            <p>For it is meet, that they who debarr the faithful of the free uſe of the Scriptures that principle of Chriſtian faith, allowing the reading thereof to none, but <hi>Auſtins, Ambroſes</hi> and <hi>Chryſoſtoms,</hi> ſhould know that not one, or two alone, but many among the or<g ref="char:EOLhyphen"/>thodox profeſſers do watch for the ſoules of the godly, eſpecially ſeeing the papiſts boaſt ſo much of their number. Every builder of the new Babylon hath wherewithall to defend the apoſtaſie of Rome, and to maintaine the ſervitude and tyranny of the Do<g ref="char:EOLhyphen"/>ctrine of the pope, the cheife bulwark and <hi>Helena</hi> of their divini<g ref="char:EOLhyphen"/>ty; let Chriſt alſo have ſuch meanes through the induſtry of his ſervants, who ſucceed in their room, who continual labour, the burden of mens unthankfullnes, and the tyranny of their enemyes hath broken and enervated; by which, not only thoſe who are al<g ref="char:EOLhyphen"/>ready in the Lords ſheep-fold may be guarded, but alſo that a watch tower may be erected for ſuch who are without it, by the light of which they may be brought into the haven of ſalvation, from the ſtormes of errors and idolatry, whereby they are miſe<g ref="char:EOLhyphen"/>rably toſſed to the preſent hazard of their ſoules. This being the grounde of my undertaking, God grant, that by it I may ſee, ſome at leaſt, if not all, in my owne nation converted from the darkneſſe of humane traditions, to the true Goſpell worſhip, and that God would keep and continue others in the heavenly truth
+<pb n="6" facs="tcp:98965:5"/>
+               <!-- PDF PAGE 89 -->by the help of theſe labors, which I heartily wiſh, nothing doubt<g ref="char:EOLhyphen"/>ing, that his divine favour who hath ſtirred up my heart in the carrying on of this work will not here leave me, but raiſe up ſome religious Patrons, who will judge it unfit to ſuffer ſo Chriſtian a work to remaine unpubliſhed, conſidering how laudable and wor<g ref="char:EOLhyphen"/>thy a thing it is for pious men, out of the love of the truth, and a deſire of the increaſe of Chriſts Kingdome in this world, to uſe all endeavours that the Church and true religion may take roote and bring forth abundant fruits in forreigne nations alſo. And ſurely; if in times of the Olde Teſtament, the building of the materiall Temple was pleaſing to God, how much more acceptable ſhall we think the building of his ſpirituall houſe, <hi>whoſe corner Stone is Chriſt, on whome believers are built as living ſtones,</hi> wil be to him. The memory of thoſe that framed the <hi>Tabernacle</hi> is bleſſed, and their names alſo who are wont to put their helping hands to ſuch pious workes, ſhall not only, as others, be written in heaven, but they alſo ſhall be made pillars in the houſe of God, and Chriſt ſhall write on them <hi>the name of his God, and the name of the City of his God,</hi> that is <hi>new Jeruſalem, which deſcendeth from God out of heaven and his new name,</hi> to whome with the Father and the Holy Ghoſt be all ho<g ref="char:EOLhyphen"/>nour and glory for ever. Amen.</p>
+         </div>
+         <div type="testimonial">
+            <pb n="7" facs="tcp:98965:5"/>
+            <!-- PDF PAGE 89 -->
+            <head>A Copy of the Teſtimonial given to the Tranſla<g ref="char:EOLhyphen"/>tor, and of the approbation of his undertaking, by ſeveral Reverend Doctors of Divinity, with the Profeſſors of the ſame, and other Perſons of Note, in the <g ref="char:V">Ʋ</g>niverſity of <hi>Ox<g ref="char:EOLhyphen"/>ford.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe are to certifie any whom it may concern, That Mr. <hi>Samuel Boguslaus Chylinski,</hi> a <hi>Lithuanian,</hi> and a Member of the Proteſtant Churches of that Countrey, being imployed by the Authority of their Synods there, and at their charges, into theſe parts for his better accompliſhment, to be afterwards ſerviceable to thoſe Churches; and to that purpoſe, ſpecially recommended by them to the <hi>Belgick</hi> Churches and Univerſities, and from thence hither (as appears to us, as well from the ſight of Letters Teſti<g ref="char:EOLhyphen"/>monial to that purpoſe, as by other credible informations,) but by reaſon of the late Wars in <hi>Poland</hi> (whereby thoſe Churches are in a manner wholly deſtroyed) being left deſtitute of ſupplies from thoſe that ſent him, either for his ſubſiſtance here, or return home, hath been ſupported here (for the ſpace of two whole years, and upwards) meerly by the charity of ſuch perſons a<g ref="char:EOLhyphen"/>mongſt us, as upon commiſeration of his condition, have been willing voluntarily to contribute toward the relief of him, and ſome others in like diſtreſs. We do alſo teſtifie, that, upon ſome ſpecial acquaintance with him, we do judge him to be a ſerious
+<pb n="8" facs="tcp:98965:6"/>
+               <!-- PDF PAGE 90 -->and godly perſon, deſerving all good incouragement. And whereas, during the time of his abode here, he hath imployed himſelf in Tranſlating he whole Bible into the <hi>Lithuanian</hi> Tongue (into which Language the Scriptures were as yet never Tranſlated) and hath now accompliſhed that work: We do here<g ref="char:EOLhyphen"/>by declare, That we judge the undertaking very conſiderable, in reference to the propagation of the Goſpel in that large Coun<g ref="char:EOLhyphen"/>trey, as alſo in ſeveral other adjacent parts where this Tongue is vulgarly ſpoken. And moreover, upon our beſt inquiry into the matter (ſo far as we are able to judge) we conceive the work to have been managed with much diligence and faithfulneſs: So as we cannot but recommend the publication of it, as a thing ve<g ref="char:EOLhyphen"/>ry worthy of their furtherance, unto whom God hath given hearts and eſtates to promote the inlargement of the Kingdom of Chriſt.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>John Conant.</hi> Vic. Can.</item>
+                     <item>
+                        <hi>Tho: Goodwin.</hi>
+                     </item>
+                     <item>
+                        <hi>Edmund Staunton.</hi>
+                     </item>
+                     <item>
+                        <hi>Chriſtopher Rogers.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Barlow.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Owen.</hi>
+                     </item>
+                     <item>
+                        <hi>Henr: Wilkinſon,</hi> Chr. Ch.</item>
+                     <item>
+                        <hi>Henr: Langley.</hi>
+                     </item>
+                     <item>
+                        <hi>John Wallis.</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Johnſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Seth Ward.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Say.</hi>
+                     </item>
+                     <item>
+                        <hi>Th: Owen.</hi>
+                     </item>
+                     <item>
+                        <hi>Hen: Savage.</hi>
+                     </item>
+                     <item>
+                        <hi>Hen: Hickman.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:98965:6"/>
+            <!-- PDF PAGE 90 -->
+         </div>
+      </body>
+   </text>
+</TEI>
